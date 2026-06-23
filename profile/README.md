@@ -1,0 +1,1 @@
+<img src="../media/vaner.png" />
